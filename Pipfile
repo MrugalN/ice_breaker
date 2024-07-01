@@ -12,6 +12,7 @@ langchain-community = "*"
 tavily-python = "*"
 langchainhub = "*"
 tweepy = "*"
+flask = "*"
 
 [dev-packages]
 
